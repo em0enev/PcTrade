@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PcTrade", "PcTrade\PcTrade.csproj", "{5B4E198F-CD04-4877-A3B3-839131522335}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PcTrade", "PcTrade/PcTrade.csproj", "{5B4E198F-CD04-4877-A3B3-839131522335}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

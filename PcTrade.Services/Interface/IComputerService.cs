@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PcTrade.Services.Interface
 {
-    class IComputerService
+    public interface IComputerService
     {
     }
 }

@@ -4,7 +4,8 @@ using System.Text;
 
 namespace PcTrade.Services.Interface
 {
-    class IAdService
+    public interface IAdService
     {
+
     }
 }

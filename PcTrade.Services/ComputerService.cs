@@ -1,10 +1,11 @@
-﻿using System;
+﻿using PcTrade.Services.Interface;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace PcTrade.Services
 {
-    class ComputerService
+    public class ComputerService : IComputerService
     {
     }
 }
